@@ -1,6 +1,6 @@
 # Drawboard
 
-> yet another tkinter prject , which is just a normal drawing board consisting of 10 colours , one eraser option to delete all the scribbles from the canvas and also one option to increase or decrease the width of the pointer used to draw on the canvas 
+> A tkinter project , which is just a normal drawing board consisting of 10 colours , one eraser option to delete all the scribbles from the canvas and also one option to increase or decrease the width of the pointer used to draw on the canvas 
 
 > the colour box gets highlighted with the brown region around it when selected so no point of confusion here. 
 
